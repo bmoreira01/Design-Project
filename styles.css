@@ -1,0 +1,157 @@
+
+body{
+    background-image:url(https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.svg);
+    background-repeat: no-repeat;
+    margin-top: -400px;
+    margin-bottom: -150px;
+    background-color:cornflowerblue;
+}
+.nav{
+    position: relative;top: -150px;left: 400px;
+    font-size: 60px;
+    padding: 20px;
+}
+.text{
+    position: relative;top: -800px;left: 20px;
+    font-size: 80px;
+    font-size: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img{
+position: relative;top: 425px;left: 20px;
+border-color: aqua;
+border-width: 10px;
+border-style: solid;
+}
+.d{
+position: relative;top: -600px;left: 1900px;
+border-color: aqua;
+border-width: 10px;
+border-style: solid;
+}
+.navdiv{
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -500px;
+    
+}
+.imgg{
+    position: relative;top: -1500px;right: -4500px;
+   border-width: 30px;
+   border-color: orangered;
+   border-style: solid;
+}
+.dh{
+    position: relative;top: -800px;
+    border-color: aqua;
+border-width: 10px;
+border-style: solid;
+}
+.title{
+    font-size: 500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 800px;
+}
+.tb{
+    position: relative;top: -800px;right: -1375px;
+    border-color: aqua;
+    border-width: 10px;
+    border-style: solid; 
+}
+.sd{
+    position: relative;top: -800px; right:50px;
+    border-color: aqua;
+    border-width: 10px;
+    border-style: solid;   
+}
+.t{
+    font-size: 1000px;
+}
+.rr{
+background-color: red;
+font-size: 100px;
+position: relative;right: -2200px;
+}
+.tq{
+    position: relative;top: -5100px;right: 2000px;
+}
+.zx{
+    position: relative;top: -5120px;right: 1700px;
+}
+.fd{
+ position: relative;top: -5120px;left: -1400px;
+}
+.ht{
+    position: relative;top: -5100px;left: -1100px;
+}
+.br{
+    position: relative;top: -5050px;left: -800px;
+}
+.nfl{
+    position: relative;top: -5150px;left: 350px;   
+}
+.lj{
+    border-color: aqua;
+    border-width: 30px;
+    border-style: solid;  
+    position: relative; top: -500px;right: -10px;
+}
+.logo{
+font-size: 200px;
+position: relative;right: -100px;
+}
+.jc{
+    border-color: aqua;
+    border-width: 30px;
+    border-style: solid;
+    position: relative; right: -100px;top: -500px;
+}
+.ja{
+    border-color: aqua;
+    border-width: 30px;
+    border-style: solid; 
+    position: relative;right: -140px;top: -500px;
+}
+.t3{
+    position: relative;top: -500px;right: -10px;
+    font-size: 250px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.aj{
+    border-color: aqua;
+    border-width: 10px;
+    border-style: solid; 
+    position: relative;right: -1400px;top: -3750px;
+}
+.jb{
+    border-color: aqua;
+    border-width: 30px;
+    border-style: solid; 
+    position: relative;right: 900px;top: -500px;
+}
+.bm{
+    border-color: aqua;
+    border-width: 30px;
+    border-style: solid; 
+    position: relative;right: 800px;top: -500px;
+}
+.jg{
+    border-color: aqua;
+    border-width: 30px;
+    border-style: solid; 
+    position: relative;right: -4800px;top: -1360px;
+}
+.jj{
+    position: relative;top: -800px; right:-1300px;
+    border-color: aqua;
+    border-width: 10px;
+    border-style: solid;  
+}
+.ar{
+    position: relative;top: -800px; right:-1700px;
+    border-color: aqua;
+    border-width: 10px;
+    border-style: solid;  
+}
+
